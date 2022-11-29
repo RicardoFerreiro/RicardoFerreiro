@@ -1,3 +1,3 @@
-- 👋 Olá, sou @RicardoFerreiro
+- 👋 Olá, sou @RicardoFerreiro tenho 31 anos e resolvi mudar de carreira neste ano de 2022
 - 🌱 Atualmente estou estudando PHP e POO
 - 📫 riicardoferreiira@gmail.com
