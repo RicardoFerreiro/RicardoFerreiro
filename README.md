@@ -1,0 +1,3 @@
+- 👋 Olá, sou @RicardoFerreiro
+- 🌱 Atualmente estou estudando PHP e POO
+- 📫 riicardoferreiira@gmail.com
