@@ -8,6 +8,7 @@
 - Vue.js
 - Nuxt.js
 - PHP
+- Laravel
 - Wordpress
 - SQL / MySQL
 - Integrações com API
