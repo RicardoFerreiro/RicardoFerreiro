@@ -1,4 +1,4 @@
-- 👋 Olá, sou Ricardo Ferreira tenho 32 anos.
+- 👋 Olá, sou Ricardo Ferreira.
 - 🌱 Atualmente estou trabalhando como desenvolvedor na Bw8 Martech.
 - 📫 riicardoferreiira@gmail.com
 - 📱 (43) 99656-7547
@@ -7,9 +7,7 @@
 ## Trabalhando atualmente com :
 - Vue.js
 - Nuxt.js
-- PHP
-- Laravel
-- Wordpress
+- PHP / Laravel / Wordpress
 - SQL / MySQL
 - Integrações com API
 
