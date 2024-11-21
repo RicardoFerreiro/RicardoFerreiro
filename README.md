@@ -1,5 +1,5 @@
 - 👋 Olá, sou Ricardo Ferreira.
-- 🌱 Atualmente estou trabalhando como desenvolvedor na Bw8 Martech.
+- 🌱 Atualmente estou trabalhando como desenvolvedor no Grupo The Best.
 - 📫 riicardoferreiira@gmail.com
 - 📱 (43) 99656-7547
 - 📍 Londrina/PR
